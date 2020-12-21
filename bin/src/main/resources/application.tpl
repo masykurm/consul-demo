@@ -1,1 +1,0 @@
-my_name={{ key "consul-demo/my_name"}}
